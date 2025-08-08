@@ -1,0 +1,5 @@
+# Build directory
+/build/
+
+# VSCode user settings
+/.vscode/
